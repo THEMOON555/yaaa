@@ -1,0 +1,31 @@
+
+{
+  "dependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^4.1.0",
+    "chalk-animation": "^2.0.2",
+    "log-symbols": "^5.1.0",
+    "moment": "^2.29.3",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "stumble4",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eskeyz/JS3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eskeyz/JS3/issues"
+  },
+  "homepage": "https://github.com/Eskeyz/JS3#readme",
+  "description": ""
+}
