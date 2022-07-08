@@ -1,11 +1,9 @@
-Read This
+# How to Run ?
 
-How to Run ?
+$git clone https://github.com/THEMOON555/yaa
 
-git clone https://github.com/THEMOON555/yaa
+$cd yaa
 
-cd yaa
+$npm i
 
-npm i
-
-npm start
+$npm start
