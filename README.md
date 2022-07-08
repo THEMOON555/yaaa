@@ -1,3 +1,4 @@
+# Easy Script 
 # How to Run ?
 
 $git clone https://github.com/THEMOON555/yaa
